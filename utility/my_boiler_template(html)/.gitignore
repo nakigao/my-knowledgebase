@@ -1,0 +1,16 @@
+# Ignore Files
+Thumbs.db
+
+# Ignore Directories
+
+.idea
+/nbproject
+
+/tmp/cache/*
+!/tmp/cache/.gitkeep
+
+/tmp/templates_c/*
+!/tmp/templates_c/.gitkeep
+
+/tmp/session/*
+!/tmp/session/.gitkeep
