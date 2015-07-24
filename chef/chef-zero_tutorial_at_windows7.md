@@ -73,6 +73,7 @@ vi .chef/knife.rb
 ※以下の設定追加
 
 local_mode true
+knife[:editor] = "notepad"
 
 chef_repo_dir = File.absolute_path( File.dirname(__FILE__) + "/.." )
 cookbook_path ["#{chef_repo_dir}/cookbooks"]
@@ -85,13 +86,16 @@ ssl_verify_mode  :verify_peer
 
 最初にGEST(Node)側のwgetのproxyを設定しておくこと
 
+TODO: ここも自動化したいですね
+
 ```
 vi /etc/wgetrc
 
 以下を追加
 
-http_proxy = http://${USER}:${PASSWORD}@${PROXY_HOST}:${PROXY_PORT}/
-https_proxy = http://${USER}:${PASSWORD}@${PROXY_HOST}:${PROXY_PORT}/
+echo 'http_proxy = http://${USER}:${PASSWORD}@${PROXY_HOST}:${PROXY_PORT}/' >> /etc/wgetrc
+echo 'https_proxy = http://${USER}:${PASSWORD}@${PROXY_HOST}:${PROXY_PORT}/' >> /etc/wgetrc
+echo 'use_proxy = on' >> /etc/wgetrc
 ``
 
 HOST(Server)でコマンド実行
@@ -153,5 +157,6 @@ end
 設定を適応
 
 ```
-PS C:\Users\user\chef-repo> chef exec knife zero bootstrap 10.1.73.52 -x root -P root -N 10.1.73.52 -r 'recipe[apache]'
+chef exec knife node run_list add 10.1.73.52 '''recipe[apache]'''
+chef exec knife zero converge 'name:10.1.73.52' -x root -P root --attribute ipaddress
 ```
