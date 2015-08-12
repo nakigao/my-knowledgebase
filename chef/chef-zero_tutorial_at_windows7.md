@@ -157,6 +157,15 @@ end
 設定を適応
 
 ```
+chef exec knife node run_list add 10.1.73.52 '''recipe[yum-epel]'''
 chef exec knife node run_list add 10.1.73.52 '''recipe[apache]'''
+chef exec knife node run_list add 10.1.73.52 '''recipe[php]'''
+chef exec knife node run_list add 10.1.73.52 '''recipe[nodejs]'''
 chef exec knife zero converge 'name:10.1.73.52' -x root -P root --attribute ipaddress
+```
+
+※設定を削除
+
+```
+chef exec knife node run_list remove 10.1.73.52 '''recipe[apache]'''
 ```
