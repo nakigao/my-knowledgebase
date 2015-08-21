@@ -1,16 +1,31 @@
-# Ignore Files
+#ignore thumbnails created by windows
 Thumbs.db
 
-# Ignore Directories
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+*.lib
+*.sbr
 
+# Ignore files created by phpstorm
 .idea
-/nbproject
 
-/tmp/cache/*
-!/tmp/cache/.gitkeep
-
-/tmp/templates_c/*
-!/tmp/templates_c/.gitkeep
-
-/tmp/session/*
-!/tmp/session/.gitkeep
+# Ignore files created by composer
+vendor
+composer.lock
