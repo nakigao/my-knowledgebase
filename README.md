@@ -5,153 +5,159 @@ personal memos!
 
 ## contents
 
-2015.08.12
+2015.10.08
 
 ```
 .
-„¥„Ÿ„Ÿ backbornjs
-„ ?? „¤„Ÿ„Ÿ Backborn.js‚Í‚¶‚ß‚Ä‚İ‚½‚©‚Á‚½.md
-„¥„Ÿ„Ÿ chef
-„ ?? „¥„Ÿ„Ÿ chef-zero_tutorial_at_windows7.md
-„ ?? „¤„Ÿ„Ÿ chef-zero_with_berkshelf_at_windows7.md
-„¥„Ÿ„Ÿ compass
-„ ?? „¤„Ÿ„Ÿ install_compass_at_Windows7.md
-„¥„Ÿ„Ÿ composer
-„ ?? „¤„Ÿ„Ÿ initialize_empty_project_with_composer.md
-„¥„Ÿ„Ÿ emberjs
-„ ?? „¤„Ÿ„Ÿ Ember.js(v1.x)‚Í‚¶‚ß‚Ä‚İ‚½.md
-„¥„Ÿ„Ÿ gitlab
-„ ?? „¤„Ÿ„Ÿ howto_setup_gitlab_linux(centos).md
-„¥„Ÿ„Ÿ hearingsheets
-„ ?? „¥„Ÿ„Ÿ _template_000_hearingSheet.md
-„ ?? „¥„Ÿ„Ÿ _template_001_developmentGuide.md
-„ ?? „¥„Ÿ„Ÿ _template_002_operationGuide.md
-„ ?? „¥„Ÿ„Ÿ _template_003_designSheet.md
-„ ?? „¥„Ÿ„Ÿ _template_004_KittingSheet.md
-„ ?? „¥„Ÿ„Ÿ _template_101_ŠT—v.md
-„ ?? „¥„Ÿ„Ÿ _template_102_ƒCƒ“ƒXƒg[ƒ‹ƒKƒCƒh.md
-„ ?? „¥„Ÿ„Ÿ _template_103_ŠJ”­ƒKƒCƒh.md
-„ ?? „¥„Ÿ„Ÿ _template_104_ƒeƒXƒgƒKƒCƒh.md
-„ ?? „¥„Ÿ„Ÿ _template_105_‰^—p•ÛçƒKƒCƒh.md
-„ ?? „¥„Ÿ„Ÿ _template_106_ƒgƒ‰ƒuƒ‹ƒVƒ…[ƒeƒBƒ“ƒO.md
-„ ?? „¥„Ÿ„Ÿ _template_110_‚»‚Ì‘¼(–¢®—).md
-„ ?? „¤„Ÿ„Ÿ ƒCƒ“ƒtƒ‰TIPS.md
-„¥„Ÿ„Ÿ interview_sheet
-„ ?? „¥„Ÿ„Ÿ WEBƒTƒCƒg‚ÌƒqƒAƒŠƒ“ƒOƒV[ƒg_ƒpƒ^[ƒ“1(”Ä—p).md
-„ ?? „¥„Ÿ„Ÿ WEBƒTƒCƒg‚ÌƒqƒAƒŠƒ“ƒOƒV[ƒg_ƒpƒ^[ƒ“2(ƒR[ƒ|ƒŒ[ƒgƒTƒCƒg).md
-„ ?? „¥„Ÿ„Ÿ WEBƒTƒCƒg‚ÌƒqƒAƒŠƒ“ƒOƒV[ƒg_ƒpƒ^[ƒ“3(ECƒTƒCƒg).md
-„ ?? „¥„Ÿ„Ÿ WEBƒTƒCƒg‚ÌƒqƒAƒŠƒ“ƒOƒV[ƒg_ƒpƒ^[ƒ“4(”Ä—p).md
-„ ?? „¤„Ÿ„Ÿ WEBƒTƒCƒg‚ÌƒqƒAƒŠƒ“ƒOƒV[ƒg_ƒpƒ^[ƒ“5.md
-„¥„Ÿ„Ÿ LICENSE
-„¥„Ÿ„Ÿ linux(centos6)
-„ ?? „¥„Ÿ„Ÿ 001_howto_setup_centos6_bootstraping.md
-„ ?? „¥„Ÿ„Ÿ 002_howto_setup_centos6.md
-„ ?? „¥„Ÿ„Ÿ howto_setup_apache(centos6).md
-„ ?? „¥„Ÿ„Ÿ howto_setup_ntp(centos6).md
-„ ?? „¥„Ÿ„Ÿ howto_setup_php(centos6).md
-„ ?? „¥„Ÿ„Ÿ howto_setup_snmp(centos6).md
-„ ?? „¥„Ÿ„Ÿ howto_setup_vmwaretools(centos6).md
-„ ?? „¥„Ÿ„Ÿ tips_CentOS_Rescue_mode.md
-„ ?? „¥„Ÿ„Ÿ tips_DNSƒT[ƒo[‚Ìw’èæ•ÏX.md
-„ ?? „¤„Ÿ„Ÿ tips_LinuxŠÂ‹«ƒZƒbƒgƒAƒbƒvƒAƒŒƒRƒŒ.md
-„¥„Ÿ„Ÿ pandoc_windows
-„ ?? „¥„Ÿ„Ÿ samples
-„ ?? „ ?? „¥„Ÿ„Ÿ minimul
-„ ?? „ ?? „ ?? „¥„Ÿ„Ÿ markdown.css
-„ ?? „ ?? „ ?? „¤„Ÿ„Ÿ meta.xml
-„ ?? „ ?? „¤„Ÿ„Ÿ word
-„ ?? „ ??     „¤„Ÿ„Ÿ custom_template_v1.docx
-„ ?? „¥„Ÿ„Ÿ windows_pandoc_epub.md
-„ ?? „¤„Ÿ„Ÿ windows_pandoc_word.md
-„¥„Ÿ„Ÿ raspbian
-„ ?? „¥„Ÿ„Ÿ Raspbian_ƒpƒbƒP[ƒW‚ÌƒCƒ“ƒXƒg[ƒ‹.md
-„ ?? „¤„Ÿ„Ÿ Raspbian_‰ŠúƒZƒbƒgƒAƒbƒv.md
-„¥„Ÿ„Ÿ README.md
-„¥„Ÿ„Ÿ server_structure
-„ ?? „¤„Ÿ„Ÿ server_structure_php_minimal.md
-„¥„Ÿ„Ÿ sqlserver
-„ ?? „¤„Ÿ„Ÿ 106_Windows_SQLServer_ƒgƒ‰ƒuƒ‹ƒVƒ…[ƒeƒBƒ“ƒO.md
-„¥„Ÿ„Ÿ system_design
-„ ?? „¥„Ÿ„Ÿ RPG‚Å‚İ‚éƒVƒXƒeƒ€İŒv.md
-„ ?? „¥„Ÿ„Ÿ templates
-„ ?? „ ?? „¥„Ÿ„Ÿ system_design_template_001_—v‹•ªÍ.xlsx
-„ ?? „ ?? „¥„Ÿ„Ÿ system_design_template_002_Šî–{İŒvWEBAPP.xlsx
-„ ?? „ ?? „¤„Ÿ„Ÿ system_design_template_003_Šî–{İŒvDB.xlsx
-„ ?? „¤„Ÿ„Ÿ WEBƒVƒXƒeƒ€‚ğ\’z‚·‚éã‚Å•K‚¸•K—v‚ÈİŒv‚Æ‚Í‚È‚É‚©.md
-„¥„Ÿ„Ÿ templates
-„ ?? „¤„Ÿ„Ÿ template.md
-„¥„Ÿ„Ÿ underconstruction
-„ ?? „¥„Ÿ„Ÿ Linux_OS‚Ìƒ}ƒCƒi[ƒo[ƒWƒ‡ƒ“ƒAƒbƒví—ª.md
-„ ?? „¥„Ÿ„Ÿ Linux_OS‚ÌƒƒWƒƒ[ƒo[ƒWƒ‡ƒ“ƒAƒbƒví—ª.md
-„ ?? „¥„Ÿ„Ÿ Linux_OVAƒtƒ@ƒCƒ‹‚ÌƒŠƒXƒgƒA.md
-„ ?? „¥„Ÿ„Ÿ Linux_ƒp[ƒeƒBƒVƒ‡ƒ“•ÏX(gparted).md
-„ ?? „¥„Ÿ„Ÿ memo_NetworkŠÄ‹ƒc[ƒ‹‚Ì”äŠr‚Æ‚©.md
-„ ?? „¥„Ÿ„Ÿ setup_compass_at_phpstorm9.md
-„ ?? „¥„Ÿ„Ÿ ssh‚Åƒm[ƒpƒXƒ[ƒhƒƒOƒCƒ“.md
-„ ?? „¥„Ÿ„Ÿ Windows_CygwinƒZƒbƒgƒAƒbƒv.md
-„ ?? „¥„Ÿ„Ÿ Windows_GitƒZƒbƒgƒAƒbƒv.md
-„ ?? „¥„Ÿ„Ÿ Windows_PhpStormƒZƒbƒgƒAƒbƒv.md
-„ ?? „¥„Ÿ„Ÿ Windows7‚Åvisitors‚ğ—˜—p‚·‚é‚Ü‚Å.md
-„ ?? „¥„Ÿ„Ÿ ƒTƒNƒ‰ƒGƒfƒBƒ^_³‹K•\Œ».md
-„ ?? „¥„Ÿ„Ÿ ƒXƒgƒŒ[ƒW‚ÉŠÖ‚µ‚Ä.md
-„ ?? „¤„Ÿ„Ÿ ƒ_ƒCƒWƒFƒXƒg”FØ(Apache).md
-„¥„Ÿ„Ÿ utility
-„ ?? „¥„Ÿ„Ÿ backup_scripts_linux(centos)
-„ ?? „ ?? „¥„Ÿ„Ÿ backup_full_of_server_via_rsync.sh
-„ ?? „ ?? „¥„Ÿ„Ÿ backup_part_of_server_via_rsync.sh
-„ ?? „ ?? „¤„Ÿ„Ÿ rsync_ignore_list
-„ ?? „¥„Ÿ„Ÿ bash
-„ ?? „¥„Ÿ„Ÿ my_boiler_template(html)
-„ ?? „ ?? „¥„Ÿ„Ÿ bin
-„ ?? „ ?? „ ?? „¥„Ÿ„Ÿ deplay_to_xxxxxxxxxx_via_robocopy.bat
-„ ?? „ ?? „ ?? „¥„Ÿ„Ÿ deplay_to_xxxxxxxxxx_via_robocopy.ps1
-„ ?? „ ?? „ ?? „¤„Ÿ„Ÿ deplay_to_xxxxxxxxxx_via_rsync.sh
-„ ?? „ ?? „¥„Ÿ„Ÿ htdocs
-„ ?? „ ?? „ ?? „¥„Ÿ„Ÿ css
-„ ?? „ ?? „ ?? „ ?? „¥„Ÿ„Ÿ default.css
-„ ?? „ ?? „ ?? „ ?? „¤„Ÿ„Ÿ vendor
-„ ?? „ ?? „ ?? „ ??     „¤„Ÿ„Ÿ normalize.css
-„ ?? „ ?? „ ?? „¥„Ÿ„Ÿ img
-„ ?? „ ?? „ ?? „¥„Ÿ„Ÿ index.html
-„ ?? „ ?? „ ?? „¥„Ÿ„Ÿ index.php
-„ ?? „ ?? „ ?? „¤„Ÿ„Ÿ js
-„ ?? „ ?? „ ??     „¤„Ÿ„Ÿ vendor
-„ ?? „ ?? „ ??         „¥„Ÿ„Ÿ jquery-1.11.2.min.js
-„ ?? „ ?? „ ??         „¤„Ÿ„Ÿ modernizr-2.8.3.min.js
-„ ?? „ ?? „¤„Ÿ„Ÿ README.md
-„ ?? „¥„Ÿ„Ÿ powershell
-„ ?? „ ?? „¥„Ÿ„Ÿ sync-source-to-destination.ps1
-„ ?? „ ?? „¤„Ÿ„Ÿ Windows_IIS_LogRotate.ps1
-„ ?? „¥„Ÿ„Ÿ research_scripts_linux(centos)
-„ ?? „ ?? „¥„Ÿ„Ÿ Linux_ƒT[ƒo[’²¸.md
-„ ?? „ ?? „¥„Ÿ„Ÿ server_status.d
-„ ?? „ ?? „¤„Ÿ„Ÿ shell.d
-„ ?? „ ??     „¥„Ÿ„Ÿ ping_all.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ public_key_send.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ public_key_send_all.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ remove_script_all.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ research_server_all.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ research_server_centos6.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ research_server_centos7.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ scpw_recv.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ scpw_recv_all.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ scpw_send.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ scpw_send_all.sh
-„ ?? „ ??     „¥„Ÿ„Ÿ server_info.d
-„ ?? „ ??     „ ?? „¥„Ÿ„Ÿ generate_info_from_csv.php
-„ ?? „ ??     „ ?? „¤„Ÿ„Ÿ server_info_master.csv
-„ ?? „ ??     „¤„Ÿ„Ÿ servers.conf
-„ ?? „¤„Ÿ„Ÿ snipets
-„ ??     „¥„Ÿ„Ÿ snipet_add_proxy.sh
-„ ??     „¥„Ÿ„Ÿ snipet_disk_used.sh
-„ ??     „¥„Ÿ„Ÿ snipet_git_force_pull.sh
-„ ??     „¥„Ÿ„Ÿ snipet_rpm_pkglist.sh
-„ ??     „¥„Ÿ„Ÿ snipet_symbolic_link.sh
-„ ??     „¥„Ÿ„Ÿ snipet_timecount.sh
-„ ??     „¤„Ÿ„Ÿ snipet_wget.sh
-„¥„Ÿ„Ÿ vmware
-„ ?? „¤„Ÿ„Ÿ howto_deploy_from_ova(WindowsOS).md
-„¤„Ÿ„Ÿ windowsos
-    „¥„Ÿ„Ÿ howto_setup_IIS7.md
-    „¤„Ÿ„Ÿ howto_setup_SQLServer2008.md
+â”œâ”€â”€ backbornjs
+â”‚   â””â”€â”€ Backborn.jsã¯ã˜ã‚ã¦ã¿ãŸã‹ã£ãŸ.md
+â”œâ”€â”€ chef
+â”‚   â”œâ”€â”€ chef-zero_tutorial_at_windows7.md
+â”‚   â””â”€â”€ chef-zero_with_berkshelf_at_windows7.md
+â”œâ”€â”€ compass
+â”‚   â””â”€â”€ install_compass_at_Windows7.md
+â”œâ”€â”€ composer
+â”‚   â””â”€â”€ initialize_empty_project_with_composer.md
+â”œâ”€â”€ emberjs
+â”‚   â””â”€â”€ Ember.js(v1.x)ã¯ã˜ã‚ã¦ã¿ãŸ.md
+â”œâ”€â”€ gitlab
+â”‚   â””â”€â”€ howto_setup_gitlab_linux(centos).md
+â”œâ”€â”€ hearingsheets
+â”‚   â”œâ”€â”€ _template_000_hearingSheet.md
+â”‚   â”œâ”€â”€ _template_001_developmentGuide.md
+â”‚   â”œâ”€â”€ _template_002_operationGuide.md
+â”‚   â”œâ”€â”€ _template_003_designSheet.md
+â”‚   â”œâ”€â”€ _template_004_KittingSheet.md
+â”‚   â”œâ”€â”€ _template_101_æ¦‚è¦.md
+â”‚   â”œâ”€â”€ _template_102_ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚¬ã‚¤ãƒ‰.md
+â”‚   â”œâ”€â”€ _template_103_é–‹ç™ºã‚¬ã‚¤ãƒ‰.md
+â”‚   â”œâ”€â”€ _template_104_ãƒ†ã‚¹ãƒˆã‚¬ã‚¤ãƒ‰.md
+â”‚   â”œâ”€â”€ _template_105_é‹ç”¨ä¿å®ˆã‚¬ã‚¤ãƒ‰.md
+â”‚   â”œâ”€â”€ _template_106_ãƒˆãƒ©ãƒ–ãƒ«ã‚·ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°.md
+â”‚   â”œâ”€â”€ _template_110_ãã®ä»–(æœªæ•´ç†).md
+â”‚   â””â”€â”€ ã‚¤ãƒ³ãƒ•ãƒ©TIPS.md
+â”œâ”€â”€ interview_sheet
+â”‚   â”œâ”€â”€ WEBã‚µã‚¤ãƒˆã®ãƒ’ã‚¢ãƒªãƒ³ã‚°ã‚·ãƒ¼ãƒˆ_ãƒ‘ã‚¿ãƒ¼ãƒ³1(æ±ç”¨).md
+â”‚   â”œâ”€â”€ WEBã‚µã‚¤ãƒˆã®ãƒ’ã‚¢ãƒªãƒ³ã‚°ã‚·ãƒ¼ãƒˆ_ãƒ‘ã‚¿ãƒ¼ãƒ³2(ã‚³ãƒ¼ãƒãƒ¬ãƒ¼ãƒˆã‚µã‚¤ãƒˆ).md
+â”‚   â”œâ”€â”€ WEBã‚µã‚¤ãƒˆã®ãƒ’ã‚¢ãƒªãƒ³ã‚°ã‚·ãƒ¼ãƒˆ_ãƒ‘ã‚¿ãƒ¼ãƒ³3(ECã‚µã‚¤ãƒˆ).md
+â”‚   â”œâ”€â”€ WEBã‚µã‚¤ãƒˆã®ãƒ’ã‚¢ãƒªãƒ³ã‚°ã‚·ãƒ¼ãƒˆ_ãƒ‘ã‚¿ãƒ¼ãƒ³4(æ±ç”¨).md
+â”‚   â”œâ”€â”€ WEBã‚µã‚¤ãƒˆã®ãƒ’ã‚¢ãƒªãƒ³ã‚°ã‚·ãƒ¼ãƒˆ_ãƒ‘ã‚¿ãƒ¼ãƒ³5.md
+â”‚   â””â”€â”€ è¨€èªã‚¤ãƒ¡ãƒ¼ã‚¸ã‚¹ã‚±ãƒ¼ãƒ«.svg
+â”œâ”€â”€ LICENSE
+â”œâ”€â”€ linux(centos6)
+â”‚   â”œâ”€â”€ 001_howto_setup_centos6_bootstraping.md
+â”‚   â”œâ”€â”€ 002_howto_setup_centos6.md
+â”‚   â”œâ”€â”€ howto_setup_apache(centos6).md
+â”‚   â”œâ”€â”€ howto_setup_ntp(centos6).md
+â”‚   â”œâ”€â”€ howto_setup_php(centos6).md
+â”‚   â”œâ”€â”€ howto_setup_snmp(centos6).md
+â”‚   â”œâ”€â”€ howto_setup_vmwaretools(centos6).md
+â”‚   â”œâ”€â”€ tips_CentOS_Rescue_mode.md
+â”‚   â”œâ”€â”€ tips_DNSã‚µãƒ¼ãƒãƒ¼ã®æŒ‡å®šå…ˆå¤‰æ›´.md
+â”‚   â””â”€â”€ tips_Linuxç’°å¢ƒã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã‚¢ãƒ¬ã‚³ãƒ¬.md
+â”œâ”€â”€ pandoc_windows
+â”‚   â”œâ”€â”€ samples
+â”‚   â”‚   â”œâ”€â”€ minimul
+â”‚   â”‚   â”‚   â”œâ”€â”€ markdown.css
+â”‚   â”‚   â”‚   â””â”€â”€ meta.xml
+â”‚   â”‚   â””â”€â”€ word
+â”‚   â”‚       â””â”€â”€ custom_template_v1.docx
+â”‚   â”œâ”€â”€ windows_pandoc_epub.md
+â”‚   â””â”€â”€ windows_pandoc_word.md
+â”œâ”€â”€ phalconphp
+â”‚   â”œâ”€â”€ phalcon2_migration.md
+â”‚   â”œâ”€â”€ phalcon2_restapi.md
+â”‚   â””â”€â”€ phalcon2+phpstorm9.md
+â”œâ”€â”€ raspbian
+â”‚   â”œâ”€â”€ Raspbian_ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«.md
+â”‚   â””â”€â”€ Raspbian_åˆæœŸã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—.md
+â”œâ”€â”€ README.md
+â”œâ”€â”€ server_structure
+â”‚   â””â”€â”€ server_structure_php_minimal.md
+â”œâ”€â”€ sqlserver
+â”‚   â””â”€â”€ 106_Windows_SQLServer_ãƒˆãƒ©ãƒ–ãƒ«ã‚·ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°.md
+â”œâ”€â”€ system_design
+â”‚   â”œâ”€â”€ RPGã§ã¿ã‚‹ã‚·ã‚¹ãƒ†ãƒ è¨­è¨ˆ.md
+â”‚   â”œâ”€â”€ templates
+â”‚   â”‚   â”œâ”€â”€ ã‚µã‚¤ãƒˆãƒãƒƒãƒ—.xlsx
+â”‚   â”‚   â””â”€â”€ ãƒ¯ã‚¤ãƒ¤ãƒ¼ãƒ•ãƒ¬ãƒ¼ãƒ .xlsx
+â”‚   â””â”€â”€ WEBã‚·ã‚¹ãƒ†ãƒ ã‚’æ§‹ç¯‰ã™ã‚‹ä¸Šã§å¿…ãšå¿…è¦ãªè¨­è¨ˆã¨ã¯ãªã«ã‹.md
+â”œâ”€â”€ templates
+â”‚   â””â”€â”€ template.md
+â”œâ”€â”€ underconstruction
+â”‚   â”œâ”€â”€ Linux_OSã®ãƒã‚¤ãƒŠãƒ¼ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‚¢ãƒƒãƒ—æˆ¦ç•¥.md
+â”‚   â”œâ”€â”€ Linux_OSã®ãƒ¡ã‚¸ãƒ£ãƒ¼ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‚¢ãƒƒãƒ—æˆ¦ç•¥.md
+â”‚   â”œâ”€â”€ Linux_OVAãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒªã‚¹ãƒˆã‚¢.md
+â”‚   â”œâ”€â”€ Linux_ãƒ‘ãƒ¼ãƒ†ã‚£ã‚·ãƒ§ãƒ³å¤‰æ›´(gparted).md
+â”‚   â”œâ”€â”€ memo_Networkç›£è¦–ãƒ„ãƒ¼ãƒ«ã®æ¯”è¼ƒã¨ã‹.md
+â”‚   â”œâ”€â”€ NFSã‚µãƒ¼ãƒãƒ¼ã®ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—@FreeNAS9.3.md
+â”‚   â”œâ”€â”€ setup_compass_at_phpstorm9.md
+â”‚   â”œâ”€â”€ sshã§ãƒãƒ¼ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãƒ­ã‚°ã‚¤ãƒ³.md
+â”‚   â”œâ”€â”€ Windows_Cygwinã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—.md
+â”‚   â”œâ”€â”€ Windows_Gitã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—.md
+â”‚   â”œâ”€â”€ Windows_PhpStormã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—.md
+â”‚   â”œâ”€â”€ Windows7ã§visitorsã‚’åˆ©ç”¨ã™ã‚‹ã¾ã§.md
+â”‚   â”œâ”€â”€ ã‚µã‚¯ãƒ©ã‚¨ãƒ‡ã‚£ã‚¿_æ­£è¦è¡¨ç¾.md
+â”‚   â”œâ”€â”€ ã‚¹ãƒˆãƒ¬ãƒ¼ã‚¸ã«é–¢ã—ã¦.md
+â”‚   â””â”€â”€ ãƒ€ã‚¤ã‚¸ã‚§ã‚¹ãƒˆèªè¨¼(Apache).md
+â”œâ”€â”€ utility
+â”‚   â”œâ”€â”€ backup_scripts_linux(centos)
+â”‚   â”‚   â”œâ”€â”€ backup_full_of_server_via_rsync.sh
+â”‚   â”‚   â”œâ”€â”€ backup_part_of_server_via_rsync.sh
+â”‚   â”‚   â””â”€â”€ rsync_ignore_list
+â”‚   â”œâ”€â”€ bash
+â”‚   â”‚   â””â”€â”€ gitkeep.sh
+â”‚   â”œâ”€â”€ my_boiler_template(html)
+â”‚   â”‚   â”œâ”€â”€ bin
+â”‚   â”‚   â”‚   â”œâ”€â”€ deplay_to_xxxxxxxxxx_via_robocopy.bat
+â”‚   â”‚   â”‚   â”œâ”€â”€ deplay_to_xxxxxxxxxx_via_robocopy.ps1
+â”‚   â”‚   â”‚   â””â”€â”€ deplay_to_xxxxxxxxxx_via_rsync.sh
+â”‚   â”‚   â”œâ”€â”€ htdocs
+â”‚   â”‚   â”‚   â”œâ”€â”€ css
+â”‚   â”‚   â”‚   â”‚   â”œâ”€â”€ default.css
+â”‚   â”‚   â”‚   â”‚   â””â”€â”€ vendor
+â”‚   â”‚   â”‚   â”‚       â””â”€â”€ normalize.css
+â”‚   â”‚   â”‚   â”œâ”€â”€ img
+â”‚   â”‚   â”‚   â”œâ”€â”€ index.html
+â”‚   â”‚   â”‚   â”œâ”€â”€ index.php
+â”‚   â”‚   â”‚   â””â”€â”€ js
+â”‚   â”‚   â”‚       â””â”€â”€ vendor
+â”‚   â”‚   â”‚           â”œâ”€â”€ jquery-1.11.2.min.js
+â”‚   â”‚   â”‚           â””â”€â”€ modernizr-2.8.3.min.js
+â”‚   â”‚   â””â”€â”€ README.md
+â”‚   â”œâ”€â”€ powershell
+â”‚   â”‚   â”œâ”€â”€ sync-source-to-destination.ps1
+â”‚   â”‚   â””â”€â”€ Windows_IIS_LogRotate.ps1
+â”‚   â”œâ”€â”€ research_scripts_linux(centos)
+â”‚   â”‚   â”œâ”€â”€ Linux_ã‚µãƒ¼ãƒãƒ¼èª¿æŸ».md
+â”‚   â”‚   â”œâ”€â”€ server_status.d
+â”‚   â”‚   â””â”€â”€ shell.d
+â”‚   â”‚       â”œâ”€â”€ ping_all.sh
+â”‚   â”‚       â”œâ”€â”€ public_key_send.sh
+â”‚   â”‚       â”œâ”€â”€ public_key_send_all.sh
+â”‚   â”‚       â”œâ”€â”€ remove_script_all.sh
+â”‚   â”‚       â”œâ”€â”€ research_server_all.sh
+â”‚   â”‚       â”œâ”€â”€ research_server_centos6.sh
+â”‚   â”‚       â”œâ”€â”€ research_server_centos7.sh
+â”‚   â”‚       â”œâ”€â”€ scpw_recv.sh
+â”‚   â”‚       â”œâ”€â”€ scpw_recv_all.sh
+â”‚   â”‚       â”œâ”€â”€ scpw_send.sh
+â”‚   â”‚       â”œâ”€â”€ scpw_send_all.sh
+â”‚   â”‚       â”œâ”€â”€ server_info.d
+â”‚   â”‚       â”‚   â”œâ”€â”€ generate_info_from_csv.php
+â”‚   â”‚       â”‚   â””â”€â”€ server_info_master.csv
+â”‚   â”‚       â””â”€â”€ servers.conf
+â”‚   â””â”€â”€ snipets
+â”‚       â”œâ”€â”€ snipet_add_proxy.sh
+â”‚       â”œâ”€â”€ snipet_disk_used.sh
+â”‚       â”œâ”€â”€ snipet_git_force_pull.sh
+â”‚       â”œâ”€â”€ snipet_rpm_pkglist.sh
+â”‚       â”œâ”€â”€ snipet_symbolic_link.sh
+â”‚       â”œâ”€â”€ snipet_timecount.sh
+â”‚       â””â”€â”€ snipet_wget.sh
+â”œâ”€â”€ vmware
+â”‚   â””â”€â”€ howto_deploy_from_ova(WindowsOS).md
+â””â”€â”€ windowsos
+    â”œâ”€â”€ howto_setup_IIS7.md
+    â””â”€â”€ howto_setup_SQLServer2008.md
 ```
