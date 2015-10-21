@@ -180,10 +180,36 @@ KERNEL: `uname -a`
 
 ## 11. ROUTINE TASKS
 
+For System
+
+"find /etc/crontab -type f -print0 | xargs -0 cat"
+
+\`\`\`bash
+
+`find /etc/crontab -type f`
+
+`find /etc/crontab -type f -print0 | xargs -0 cat`
+\`\`\`
+
+For Services
+
+"find /etc/cron.d -type f -print0 | xargs -0 cat"
+
+\`\`\`bash
+
+`find /etc/cron.d -type f`
+
+`find /etc/cron.d -type f -print0 | xargs -0 cat`
+\`\`\`
+
+For Users
+
 "find /var/spool/cron -type f -print0 | xargs -0 cat"
 
 \`\`\`bash
-　
+
+`find /var/spool/cron -type f`
+
 `find /var/spool/cron -type f -print0 | xargs -0 cat`
 \`\`\`
 
